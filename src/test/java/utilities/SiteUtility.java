@@ -41,7 +41,6 @@ public class SiteUtility
 		else
 		{
 			//Set IE browser zoom level to 100% manually
-			//System.setProperty("webdriver.ie.driver","path of iedriverserver.exe software");
 			WebDriverManager.iedriver().setup();
 			driver=new InternetExplorerDriver();	
 		}

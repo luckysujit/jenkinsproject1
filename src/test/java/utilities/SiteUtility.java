@@ -65,7 +65,7 @@ public class SiteUtility
 				url="http://www.google.co.in";
 				break;
 			case "STG":
-				url="http://www.google.co.in";
+				url="http://www.google.com";
 				break;
 			case "DEV":
 				url="http://www.google.co.in";
